@@ -1,4 +1,4 @@
-# Machine Learning Algorithms & Quantitative Finance Projects
+# Machine Learning Algorithms and Neural Networks
 
 This repository contains a collection of projects related to machine learning algorithms, with a focus on quantitative finance, time series analysis, and deep learning applications. The projects range from foundational implementations of classical algorithms to advanced deep learning models and Bayesian networks.
 
